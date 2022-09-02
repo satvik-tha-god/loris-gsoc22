@@ -43,6 +43,7 @@ The second phase of the timeline was spent by me working on the Dashboard module
 <img src="./assets/2.png" alt="stacked recruitment" height="200" width="175"/>
 ##### August-Sept (Phase 3)
 This phase was spent by me improving the previous PRs, me making the Recruitment Age pie chart completely dynamic and configurable and me working on a demonstration of my previously proposed idea to install and integrate Chart.js library to the LORIS codebase as an upgrade from the previously used libraries. It also included the LORIS core helping to merge my previous PRs to the main codebase. 
+<br>
 <img src="./assets/4.png" alt="chart.js overlapping" height="200" width="150"/>
 <img src="./assets/3.png" alt="dynamic" height="200" width="200"/>
 
