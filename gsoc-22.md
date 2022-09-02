@@ -5,6 +5,9 @@
 _August 31, 2022_
 
 #### Student
+
+![Satvik's picture](./assets/satvik.jpeg)
+<br>
 Satvik Singh
 
 #### Organization
@@ -35,9 +38,13 @@ The first phase of the timeline was spent getting to know my mentors and organiz
 
 ##### July (Phase 2)
 The second phase of the timeline was spent by me working on the Dashboard module to improve visualisations by adding the Total tooltip to the Study Progression line charts, changing the Recruitment sex bar chart to stacked and adding Total and adding a Recruitment Age pie chart. I also sent improvements to RaisinBread and finally gave my mid-term presentation. 
-
+<br>
+<img src="./assets/1.png" alt="study progression" height="200" width="350"/>
+<img src="./assets/2.png" alt="stacked recruitment" height="200" width="175"/>
 ##### August-Sept (Phase 3)
 This phase was spent by me improving the previous PRs, me making the Recruitment Age pie chart completely dynamic and configurable and me working on a demonstration of my previously proposed idea to install and integrate Chart.js library to the LORIS codebase as an upgrade from the previously used libraries. It also included the LORIS core helping to merge my previous PRs to the main codebase. 
+<img src="./assets/4.png" alt="chart.js overlapping" height="200" width="150"/>
+<img src="./assets/3.png" alt="dynamic" height="200" width="200"/>
 
 ### Repository 
 This is [my fork](https://github.com/satvik-tha-god/Loris) of the LORIS codebase. Can be used as reference for my work.
@@ -52,6 +59,7 @@ This is the list of my [open Pull Requests](https://github.com/aces/Loris/pulls?
 1. [Visualising of Total in Study Progression Line Charts](https://github.com/aces/Loris/pull/8123)
 2. [Updated Recruitment Bar Chart to Stacked and Add Total](https://github.com/aces/Loris/pull/8125)
 3. [Added a Dynamic Candidate Pie Chart to Recruitment Dashboard](https://github.com/aces/Loris/pull/8134)
+4. [Chart.js Integration with LORIS codebase](https://github.com/aces/Loris/pull/8163)
 
 ### General PRs
 1. [Troubleshooting Documentation for lorisadmin account](https://github.com/aces/Loris/pull/8102)
