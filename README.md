@@ -61,11 +61,12 @@ This is the list of my [open Pull Requests](https://github.com/aces/Loris/pulls?
 2. [Updated Recruitment Bar Chart to Stacked and Add Total](https://github.com/aces/Loris/pull/8125)
 3. [Added a Dynamic Candidate Pie Chart to Recruitment Dashboard](https://github.com/aces/Loris/pull/8134)
 4. [Chart.js Integration with LORIS codebase](https://github.com/aces/Loris/pull/8163)
+5. [Chart.js Overlapping Bars demonstration](https://github.com/aces/Loris/pull/8164)
 
 ### General PRs
-1. [Troubleshooting Documentation for lorisadmin account](https://github.com/aces/Loris/pull/8102)
-2. [Field warnings for the Instrument Builder Module](https://github.com/aces/Loris/pull/8112)
-3. [Fixed Inconsistent RaisinBread Data](https://github.com/aces/Loris/pull/8146)
+6. [Troubleshooting Documentation for lorisadmin account](https://github.com/aces/Loris/pull/8102)
+7. [Field warnings for the Instrument Builder Module](https://github.com/aces/Loris/pull/8112)
+8. [Fixed Inconsistent RaisinBread Data](https://github.com/aces/Loris/pull/8146)
 
 ### [Mid-term Presentation](https://docs.google.com/presentation/d/1fF7ZHcIpD1Y0gDhTJqOvjX1veF6dDzgSCsWcyaeq_l0/edit#slide=id.p)
 I presented my work to the LORIS development team on 2nd August. I presented my journey and the progress I had made in my project at that point over the timeline. I discussed the current state of visualisations and LORIS codebase and gave suggestions to the possible directions that LORIS could go in.
