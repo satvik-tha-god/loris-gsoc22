@@ -71,6 +71,9 @@ This is the list of my [open Pull Requests](https://github.com/aces/Loris/pulls?
 ### [Mid-term Presentation](https://docs.google.com/presentation/d/1fF7ZHcIpD1Y0gDhTJqOvjX1veF6dDzgSCsWcyaeq_l0/edit#slide=id.p)
 I presented my work to the LORIS development team on 2nd August. I presented my journey and the progress I had made in my project at that point over the timeline. I discussed the current state of visualisations and LORIS codebase and gave suggestions to the possible directions that LORIS could go in.
 
+### [Final Presentation](https://docs.google.com/presentation/d/160z9kpn5ZzyVbAS70pmoiaEVSbuQhMojepH5SsePHmo/edit#slide=id.gdd7a649865_0_132)
+Presented and discussed my POC about migrating to a new library and the ideas associated with it with the LORIS development team on 6th September. Showed them demo of the library integration, pros and cons etc.
+
 ### Experience
 The whole timeline of Google Summer of Code was really great for me. I learned a lot in terms of new technologies such as PHP, learned the organisational workflow and how to collaborate better. The tasks were challenging and interesting and made me go outside of my comfort zone. The experience of working at LORIS for me was an extremely valuable and memorable one and will help me a lot in my career as a developer and engineer. 
 
